@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-**SwedMlite/SwedMlite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on:
  *[Mu-Qcom](https://github.com/Robotix22/Mu-Qcom) - UEFI Bootloader for Qualcomm Device to boot Windows or Linux.*
 - 🌱 I’m currently learning:
