@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on:
- *[Mu-Qcom](https://github.com/Robotix22/Mu-Qcom) - UEFI Bootloader for Qualcomm Device to boot Windows or Linux.*
+~*[Mu-Qcom](https://github.com/Robotix22/Mu-Qcom) - UEFI Bootloader for Qualcomm Device to boot Windows or Linux.*~
+
+*[source-engine-ksgo](https://github.com/SwedMlite/source-engine-ksgo) - attempting to port kisak strike to aarch64 using the nillerusr source engine*
 - 🌱 I’m currently learning:
-  C/C++
+  **C++** , **C** , **Java**
 <!--  👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
